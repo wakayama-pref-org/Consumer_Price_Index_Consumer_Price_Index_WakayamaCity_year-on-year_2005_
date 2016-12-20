@@ -1,4 +1,4 @@
-# Consumer_Price_Index_Consumer_Price_Index_WakayamaCity_year-on-year_2005_
+# consumer_price_index_consumer_price_index_wakayamacity_year-on-year_2005_
 【平成17年基準和歌山市消費者物価指数(月別指数・10倍値)です。】
 総務省統計局の「平成17年基準　消費者物価指数」から和歌山市の数値を抜粋し、その推移をまとめたものです。全国の概況及び統計表は統計局ホームページで閲覧することができます。
 http://www.pref.wakayama.lg.jp/prefg/020300/cpi/tyouki05/H17/I3_10.csv
